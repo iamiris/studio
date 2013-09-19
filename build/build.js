@@ -16,9 +16,9 @@
     modules: [
 
         {
-            name: 'apps/examples',
+            name: 'apps/studio',
             include: [
-                'apps/examples/app'
+                'apps/studio/app'
             ]
         }
     ]
